@@ -4,7 +4,7 @@ import { landingPageComponent } from './main-content/landingPage/landingPage.com
 import { NavbarComponent } from './main-content/landingPage/navbar/navbar.component';
 import { CommonModule } from '@angular/common';
 import { MainContentComponent } from './main-content/main-content.component';
-import { FooterComponent } from './footer/footer.component';
+import { FooterComponent } from './shared/footer/footer.component';
 import { ImprintComponent } from './imprint/imprint.component';
 @Component({
   selector: 'app-root',
