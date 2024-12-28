@@ -1,0 +1,34 @@
+section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.how_to_order {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 300px;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Economica';
+    font-size: 56px;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+}
+.order_icons{
+    width: 128px;
+}
+
+h2 {
+    font-family: 'Raleway';
+    font-size: 80px;
+    font-weight: bold;
+    color: #9F0908;
+    margin: 0px;
+}
